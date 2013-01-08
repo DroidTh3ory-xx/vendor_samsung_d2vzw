@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/d2vzw/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
         vendor/samsung/d2vzw/proprietary/lib/libril.so:system/lib/libril.so \
         vendor/samsung/d2vzw/proprietary/bin/thermald:system/bin/thermald \
+        vendor/samsung/d2vzw/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
         vendor/samsung/d2vzw/proprietary/etc/thermald-8064.conf:system/etc/thermald-8064.conf \
         vendor/samsung/d2vzw/proprietary/etc/thermald-8930.conf:system/etc/thermald-8930.conf \
         vendor/samsung/d2vzw/proprietary/etc/thermald-8960.conf:system/etc/thermald-8960.conf \
